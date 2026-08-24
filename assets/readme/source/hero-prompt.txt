@@ -1,0 +1,8 @@
+Use case: background-extraction
+Asset type: transparent mascot cutout for a GitHub profile README hero
+Primary request: Remove the pale blue background from the provided pixel-art full-body character and return the character as a genuinely transparent-background PNG.
+Input image: hero-subject-original.png is the edit target and must be preserved exactly.
+Subject: the same smiling pixel-art young man in a navy blazer, light-blue tie, dark shorts, brown-and-white shoes, holding a black tablet, with cyan and gold accents in his hair.
+Composition/framing: keep the exact full-body pose, scale, proportions, pixel edges, and complete silhouette; retain all hair, hands, tablet, watch, clothing, shoes, and the small ground-contact shadow if possible.
+Constraints: change only the background to transparency; preserve the character identity, pose, clothing, colors, facial expression, pixel-art style, and sharp edges; no text; no added objects; no crop; no watermark.
+Avoid: repainting, smoothing, photorealism, halo fringes, light-blue background remnants, altered anatomy, missing feet or hair.
