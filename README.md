@@ -26,7 +26,7 @@
       <td colspan="2" width="100%" valign="top" align="center">
         <strong>01 · <a href="https://github.com/MichengAI/dsh-codex-desktop">DSH Codex Desktop</a></strong><br>
         跨平台桌面版本，无需预装复杂环境，开箱即用。<br>
-        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-codex-desktop/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-codex-desktop?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Codex Desktop GitHub stars"></a> <a href="https://www.npmjs.com/package/deepseek-harness-desktop"><img src="https://img.shields.io/npm/dt/deepseek-harness-desktop?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="deepseek-harness-desktop total npm downloads"></a>
+        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-codex-desktop/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-codex-desktop?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Codex Desktop GitHub stars"></a>
       </td>
     </tr>
     <tr>
