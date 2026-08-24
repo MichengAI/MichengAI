@@ -17,8 +17,8 @@
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center">项目</th>
-      <th width="50%" align="center">项目</th>
+      <th width="50%" align="center"><img src="./assets/readme/column-spacer.png" width="180" height="1" alt="Decorative layout spacer" aria-hidden="true">项目<img src="./assets/readme/column-spacer.png" width="180" height="1" alt="Decorative layout spacer" aria-hidden="true"></th>
+      <th width="50%" align="center"><img src="./assets/readme/column-spacer.png" width="180" height="1" alt="Decorative layout spacer" aria-hidden="true">项目<img src="./assets/readme/column-spacer.png" width="180" height="1" alt="Decorative layout spacer" aria-hidden="true"></th>
     </tr>
   </thead>
   <tbody>
