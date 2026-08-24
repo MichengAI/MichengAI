@@ -14,21 +14,59 @@
 
 ## 🚀 精选开源项目
 
-| 项目 | 项目 |
-| :--- | :--- |
-| **01 · [DSH Codex UI](https://github.com/MichengAI/dsh-codex-ui)**<br>Codex UI 插件，专注完整交互体验与细节还原。<br><sub>`TypeScript` · [github.com/MichengAI/dsh-codex-ui](https://github.com/MichengAI/dsh-codex-ui)</sub> | **02 · [DSH Codex Desktop](https://github.com/MichengAI/dsh-codex-desktop)**<br>跨平台桌面版本，无需预装复杂环境，开箱即用。<br><sub>`TypeScript` · [github.com/MichengAI/dsh-codex-desktop](https://github.com/MichengAI/dsh-codex-desktop)</sub> |
-| **03 · [DSH Skills Manager](https://github.com/MichengAI/dsh-skills-manager)**<br>可视化管理 DeepSeek Harness Skills 的桌面插件。<br><sub>`JavaScript` · [github.com/MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager)</sub> | **04 · [DSH Agency Agents](https://github.com/MichengAI/dsh-agency-agents)**<br>面向不同行业场景的 Agent 集合与实践样例。<br><sub>`JavaScript` · [github.com/MichengAI/dsh-agency-agents](https://github.com/MichengAI/dsh-agency-agents)</sub> |
-| **05 · [DSH Archive Manager](https://github.com/MichengAI/dsh-archive-manager)**<br>让历史会话更容易查找、归档和维护。<br><sub>`JavaScript` · [github.com/MichengAI/dsh-archive-manager](https://github.com/MichengAI/dsh-archive-manager)</sub> | **06 · [DSH Automation](https://github.com/MichengAI/dsh-automation)**<br>为 DeepSeek Harness 提供定时与自动化任务能力。<br><sub>`JavaScript` · [github.com/MichengAI/dsh-automation](https://github.com/MichengAI/dsh-automation)</sub> |
-
-<details>
-<summary><strong>查看更多 DSH 生态项目</strong></summary>
-
-<br>
-
-- [DSH IM Connect](https://github.com/MichengAI/dsh-im-connect) — 连接微信、企业微信、钉钉、QQ、飞书等 IM 场景
-- [DSH Codex Desktop Website](https://github.com/MichengAI/dsh-codex-desktop-website) — 桌面版项目官网
-
-</details>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="left">项目</th>
+      <th width="50%" align="left">项目</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>01 · <a href="https://github.com/MichengAI/dsh-codex-ui">DSH Codex UI</a></strong><br>
+        Codex UI 插件，专注完整交互体验与细节还原。<br>
+        <sub><code>TypeScript</code> · <a href="https://github.com/MichengAI/dsh-codex-ui">github.com/MichengAI/dsh-codex-ui</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <strong>02 · <a href="https://github.com/MichengAI/dsh-codex-desktop">DSH Codex Desktop</a></strong><br>
+        跨平台桌面版本，无需预装复杂环境，开箱即用。<br>
+        <sub><code>TypeScript</code> · <a href="https://github.com/MichengAI/dsh-codex-desktop">github.com/MichengAI/dsh-codex-desktop</a></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>03 · <a href="https://github.com/MichengAI/dsh-skills-manager">DSH Skills Manager</a></strong><br>
+        可视化管理 DeepSeek Harness Skills 的桌面插件。<br>
+        <sub><code>JavaScript</code> · <a href="https://github.com/MichengAI/dsh-skills-manager">github.com/MichengAI/dsh-skills-manager</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <strong>04 · <a href="https://github.com/MichengAI/dsh-agency-agents">DSH Agency Agents</a></strong><br>
+        面向不同行业场景的 Agent 集合与实践样例。<br>
+        <sub><code>JavaScript</code> · <a href="https://github.com/MichengAI/dsh-agency-agents">github.com/MichengAI/dsh-agency-agents</a></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>05 · <a href="https://github.com/MichengAI/dsh-archive-manager">DSH Archive Manager</a></strong><br>
+        让历史会话更容易查找、归档和维护。<br>
+        <sub><code>JavaScript</code> · <a href="https://github.com/MichengAI/dsh-archive-manager">github.com/MichengAI/dsh-archive-manager</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <strong>06 · <a href="https://github.com/MichengAI/dsh-automation">DSH Automation</a></strong><br>
+        为 DeepSeek Harness 提供定时与自动化任务能力。<br>
+        <sub><code>JavaScript</code> · <a href="https://github.com/MichengAI/dsh-automation">github.com/MichengAI/dsh-automation</a></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="100%" valign="top">
+        <strong>07 · <a href="https://github.com/MichengAI/dsh-im-connect">DSH IM Connect</a></strong><br>
+        连接微信、企业微信、钉钉、QQ、飞书等 IM 场景。<br>
+        <sub><code>JavaScript</code> · <a href="https://github.com/MichengAI/dsh-im-connect">github.com/MichengAI/dsh-im-connect</a></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🧭 当前方向
 
