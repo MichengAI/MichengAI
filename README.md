@@ -14,7 +14,7 @@
 
 ## 🚀 精选开源项目
 
-<table width="100%">
+<table align="center" width="100%">
   <thead>
     <tr>
       <th width="50%" align="left">项目</th>
