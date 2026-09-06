@@ -69,6 +69,18 @@
         <img src="https://img.shields.io/badge/JavaScript-4A3A12?style=flat&amp;logo=javascript&amp;logoColor=F4C35A" height="20" alt="JavaScript"> <a href="https://github.com/MichengAI/dsh-im-connect/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-im-connect?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH IM Connect GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-im-connect"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-im-connect?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH IM Connect total npm downloads"></a>
       </td>
     </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>08 · <a href="https://github.com/MichengAI/dsh-btw">DSH BTW</a></strong><br>
+        Ask context-aware side questions in independent bubbles, without running tools.<br>
+        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-btw/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-btw?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH BTW GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-btw"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-btw?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH BTW total npm downloads"></a>
+      </td>
+      <td width="50%" valign="top">
+        <strong>09 · <a href="https://github.com/MichengAI/dsh-simplify">DSH Simplify</a></strong><br>
+        Automatically simplify code within Git changes while preserving behavior.<br>
+        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-simplify/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-simplify?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Simplify GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-simplify"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-simplify?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Simplify total npm downloads"></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
