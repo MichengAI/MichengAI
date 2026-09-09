@@ -27,58 +27,63 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" width="100%" valign="top" align="center">
+      <td width="50%" valign="top">
         <strong>01 · <a href="https://github.com/MichengAI/dsh-codex-desktop">DSH Codex Desktop</a></strong><br>
         A ready-to-use, cross-platform desktop client with no complex setup.<br>
         <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-codex-desktop/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-codex-desktop?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Codex Desktop GitHub stars"></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <strong>02 · <a href="https://github.com/MichengAI/dsh-codex-ui">DSH Codex UI</a></strong><br>
         A Codex UI plugin focused on faithful interactions and polished details.<br>
         <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-codex-ui/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-codex-ui?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Codex UI GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-codex-ui"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-codex-ui?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Codex UI total npm downloads"></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <strong>03 · <a href="https://github.com/MichengAI/dsh-skills-manager">DSH Skills Manager</a></strong><br>
         Visual management for DeepSeek Harness Skills in a desktop plugin.<br>
         <img src="https://img.shields.io/badge/JavaScript-4A3A12?style=flat&amp;logo=javascript&amp;logoColor=F4C35A" height="20" alt="JavaScript"> <a href="https://github.com/MichengAI/dsh-skills-manager/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-skills-manager?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Skills Manager GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-skills-manager"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-skills-manager?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Skills Manager total npm downloads"></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <strong>04 · <a href="https://github.com/MichengAI/dsh-agency-agents">DSH Agency Agents</a></strong><br>
         Agent collections and practical examples for different industries.<br>
         <img src="https://img.shields.io/badge/JavaScript-4A3A12?style=flat&amp;logo=javascript&amp;logoColor=F4C35A" height="20" alt="JavaScript"> <a href="https://github.com/MichengAI/dsh-agency-agents/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-agency-agents?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Agency Agents GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-agency-agents"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-agency-agents?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Agency Agents total npm downloads"></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <strong>05 · <a href="https://github.com/MichengAI/dsh-archive-manager">DSH Archive Manager</a></strong><br>
         Makes past conversations easy to find, archive, and maintain.<br>
         <img src="https://img.shields.io/badge/JavaScript-4A3A12?style=flat&amp;logo=javascript&amp;logoColor=F4C35A" height="20" alt="JavaScript"> <a href="https://github.com/MichengAI/dsh-archive-manager/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-archive-manager?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Archive Manager GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-archive-manager"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-archive-manager?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Archive Manager total npm downloads"></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <strong>06 · <a href="https://github.com/MichengAI/dsh-automation">DSH Automation</a></strong><br>
         Scheduling and automation for DeepSeek Harness.<br>
         <img src="https://img.shields.io/badge/JavaScript-4A3A12?style=flat&amp;logo=javascript&amp;logoColor=F4C35A" height="20" alt="JavaScript"> <a href="https://github.com/MichengAI/dsh-automation/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-automation?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Automation GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-automation"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-automation?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Automation total npm downloads"></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <strong>07 · <a href="https://github.com/MichengAI/dsh-im-connect">DSH IM Connect</a></strong><br>
         Connects WeChat, WeCom, DingTalk, QQ, Feishu, and other IM platforms.<br>
         <img src="https://img.shields.io/badge/JavaScript-4A3A12?style=flat&amp;logo=javascript&amp;logoColor=F4C35A" height="20" alt="JavaScript"> <a href="https://github.com/MichengAI/dsh-im-connect/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-im-connect?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH IM Connect GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-im-connect"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-im-connect?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH IM Connect total npm downloads"></a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <strong>08 · <a href="https://github.com/MichengAI/dsh-btw">DSH BTW</a></strong><br>
         Ask context-aware side questions in independent bubbles, without running tools.<br>
         <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-btw/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-btw?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH BTW GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-btw"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-btw?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH BTW total npm downloads"></a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <strong>09 · <a href="https://github.com/MichengAI/dsh-simplify">DSH Simplify</a></strong><br>
         Automatically simplify code within Git changes while preserving behavior.<br>
         <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-simplify/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-simplify?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Simplify GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-simplify"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-simplify?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Simplify total npm downloads"></a>
+      </td>
+      <td width="50%" valign="top">
+        <strong>10 · <a href="https://github.com/MichengAI/dsh-codex-pet">DSH Codex Pet</a></strong><br>
+        Pet companions and task notifications, with Skill-based custom pet creation.<br>
+        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-codex-pet/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-codex-pet?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Codex Pet GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-codex-pet"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-codex-pet?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Codex Pet total npm downloads"></a>
       </td>
     </tr>
   </tbody>
