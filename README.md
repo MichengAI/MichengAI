@@ -81,7 +81,19 @@
         <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-simplify/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-simplify?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Simplify GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-simplify"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-simplify?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Simplify total npm downloads"></a>
       </td>
       <td width="50%" valign="top">
-        <strong>10 · <a href="https://github.com/MichengAI/dsh-codex-pet">DSH Codex Pet</a></strong><br>
+        <strong>10 · <a href="https://github.com/MichengAI/dsh-pua">DSH PUA</a></strong><br>
+        引导 Agent 在失败时换方法、查原因，并在完成前验证结果。<br>
+        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-pua/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-pua?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH PUA GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-pua"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-pua?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH PUA total npm downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>11 · <a href="https://github.com/MichengAI/dsh-code-review">DSH Code Review</a></strong><br>
+        通过 /review 发起独立 Agent 代码审查，在当前会话接收报告。<br>
+        <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-code-review/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-code-review?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Code Review GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-code-review"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-code-review?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Code Review total npm downloads"></a>
+      </td>
+      <td width="50%" valign="top">
+        <strong>12 · <a href="https://github.com/MichengAI/dsh-codex-pet">DSH Codex Pet</a></strong><br>
         宠物陪伴与多会话提醒，支持通过 Skill 创建自己的伙伴。<br>
         <img src="https://img.shields.io/badge/TypeScript-173A5E?style=flat&amp;logo=typescript&amp;logoColor=42BFFF" height="20" alt="TypeScript"> <a href="https://github.com/MichengAI/dsh-codex-pet/stargazers"><img src="https://img.shields.io/github/stars/MichengAI/dsh-codex-pet?style=flat&amp;logo=github&amp;label=Stars&amp;labelColor=172133&amp;color=20C7E8" height="20" alt="DSH Codex Pet GitHub stars"></a> <a href="https://www.npmjs.com/package/@michengai/dsh-codex-pet"><img src="https://img.shields.io/npm/dt/%40michengai%2Fdsh-codex-pet?style=flat&amp;logo=npm&amp;label=Downloads&amp;labelColor=172133&amp;color=F4C35A" height="20" alt="DSH Codex Pet total npm downloads"></a>
       </td>
